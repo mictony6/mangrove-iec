@@ -1,0 +1,71 @@
+
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.plant-button {
+  color: rgb(37, 26, 11);
+  border: solid 2px black;
+  position: absolute;
+  top: 8%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.mangrove {
+  width: 50px;
+  height: auto;
+}
+
+.mangrove-info {
+  position: absolute;
+  background: linear-gradient(180deg, rgba(255, 255, 255, .8),white 20%, white,white, rgba(255, 255, 255, .8) );
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  max-width: 300px;
+  mix-blend-mode: multiply;
+
+}
+
+
+.background {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 100vw !important;
+  height: auto !important;
+  z-index: -1;
+}
+
+.learn-more-link{
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+  color: rgb(69, 69, 69);
+  text-decoration: underline;
+}
+
+.slogan{
+  position: absolute;
+  top: 8%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+  z-index: 0; 
+  font-family: 'Lucida Sans', sans-serif;
+  font-size: 60px;
+  color: white;
+  width: 100px;
+  text-align: center;
+  text-shadow: 0 0 10px rgba(249, 255, 205, 0.3);
+  line-height: 125%;
+}
