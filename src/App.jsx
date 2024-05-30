@@ -10,70 +10,70 @@ const mangroveData = [
   {
     image: mangroveImage,
     title: "Mangroves",
-    description: "Mangroves are vital to coastal ecosystems. They provide habitat for fish, protect coastlines from erosion, and help mitigate climate change by sequestering carbon.",
+    description: "Mangroves are vital to coastal ecosystems. They provide habitat for fish, protect coastlines from erosion, and help mitigate climate change by sequestering carbon. To plant mangroves, collect mature propagules, insert them vertically into the sediment, and ensure they are partially submerged in tidal waters.",
     policies: "In the Philippines, several laws and policies protect mangroves including the Presidential Decree No. 705 (Revised Forestry Code), the National Integrated Protected Areas System Act, and the Mangrove and Beach Forest Development Project.",
     reference: "https://www.iucn.org/resources/issues-briefs/mangroves-and-climate-change"
   },
   {
     image: mangroveImage,
     title: "Red Mangrove",
-    description: "Red mangroves are characterized by their prop roots that stand above the water, providing habitat for many marine species.",
+    description: "Red mangroves are characterized by their prop roots that stand above the water, providing habitat for many marine species. To plant red mangroves, collect propagules, place them in shallow holes dug into the substrate, and ensure they are partly submerged by tidal waters.",
     policies: "Red mangroves are protected under various international treaties and national conservation laws in countries where they are found, such as the Clean Water Act in the United States.",
     reference: "https://www.floridamuseum.ufl.edu/southflorida/habitats/mangroves/red-mangroves/"
   },
   {
     image: mangroveImage,
     title: "Black Mangrove",
-    description: "Black mangroves are recognized for their ability to excrete excess salt through pores in their leaves, contributing to their survival in saline environments.",
+    description: "Black mangroves are recognized for their ability to excrete excess salt through pores in their leaves, contributing to their survival in saline environments. To plant black mangroves, collect seeds or propagules, place them in holes dug into the mud, and ensure they are in areas with periodic tidal inundation.",
     policies: "Protection of black mangroves is mandated under local conservation laws and regulations in regions where they grow, including specific provisions in coastal management plans.",
     reference: "https://www.fisheries.noaa.gov/species/black-mangrove"
   },
   {
     image: mangroveImage,
     title: "White Mangrove",
-    description: "White mangroves are known for their adaptations to tidal fluctuations, with specialized glands excreting excess salt from their leaves.",
+    description: "White mangroves are known for their adaptations to tidal fluctuations, with specialized glands excreting excess salt from their leaves. To plant white mangroves, collect seeds or propagules, place them in sandy soil at the water's edge, and ensure they receive occasional tidal flooding.",
     policies: "Conservation efforts for white mangroves are integrated into broader coastal zone management frameworks, ensuring their protection and sustainable use.",
     reference: "https://floridadep.gov/rcp/coastal-ecosystems/content/white-mangrove"
   },
   {
     image: mangroveImage,
     title: "Buttonwood Mangrove",
-    description: "Buttonwood mangroves are often found at higher elevations compared to other mangroves and have leathery leaves and small, button-like fruits.",
+    description: "Buttonwood mangroves are often found at higher elevations compared to other mangroves and have leathery leaves and small, button-like fruits. To plant buttonwood mangroves, collect seeds or propagules, plant them in well-drained soil, and ensure they are periodically exposed to tidal waters.",
     policies: "Conservation policies for buttonwood mangroves are usually part of broader mangrove and coastal ecosystem protection initiatives.",
     reference: "https://www.sfwmd.gov/community-residents/mangrove/buttonwood"
   },
   {
     image: mangroveImage,
     title: "Dwarf Mangrove",
-    description: "Dwarf mangroves are a smaller form of red mangroves that thrive in less favorable conditions, providing critical habitat for smaller marine organisms.",
+    description: "Dwarf mangroves are a smaller form of red mangroves that thrive in less favorable conditions, providing critical habitat for smaller marine organisms. To plant dwarf mangroves, collect propagules, place them in shallow depressions filled with mud, and ensure they are in areas with occasional tidal inundation.",
     policies: "Dwarf mangroves are protected under the same laws as other mangroves, emphasizing their ecological importance.",
     reference: "https://www.nps.gov/ever/learn/nature/mangroves.htm"
   },
   {
     image: mangroveImage,
     title: "Orange Mangrove",
-    description: "Orange mangroves are known for their distinct orange-colored bark and are typically found in tropical regions.",
+    description: "Orange mangroves are known for their distinct orange-colored bark and are typically found in tropical regions. To plant orange mangroves, collect seeds or propagules, plant them in waterlogged soil, and ensure they are regularly submerged by tidal waters.",
     policies: "Local and international conservation efforts protect orange mangroves due to their ecological and environmental significance.",
     reference: "https://www.conservation.org/projects/mangrove-conservation"
   },
   {
     image: mangroveImage,
     title: "Grey Mangrove",
-    description: "Grey mangroves have aerial roots known as pneumatophores which allow them to thrive in oxygen-poor environments.",
+    description: "Grey mangroves have aerial roots known as pneumatophores which allow them to thrive in oxygen-poor environments. To plant grey mangroves, collect seeds or propagules, plant them in muddy soil near the water's edge, and ensure the roots are partially exposed to facilitate gas exchange.",
     policies: "Protection of grey mangroves is often included in national coastal management policies and international environmental agreements.",
     reference: "https://www.wwf.org.au/what-we-do/habitat-conservation/mangroves"
   },
   {
     image: mangroveImage,
     title: "Lumnitzera Mangrove",
-    description: "Lumnitzera mangroves are known for their dense, bushy appearance and are found in the Indo-Pacific region.",
+    description: "Lumnitzera mangroves are known for their dense, bushy appearance and are found in the Indo-Pacific region. To plant Lumnitzera mangroves, collect seeds or propagules, plant them in saline mud, and ensure they receive periodic tidal flooding.",
     policies: "Conservation efforts focus on habitat preservation and sustainable management practices for Lumnitzera mangroves.",
     reference: "https://mangrove.atlasobscura.com"
   },
   {
     image: mangroveImage,
     title: "River Mangrove",
-    description: "River mangroves thrive along riverbanks and estuaries, playing a crucial role in stabilizing riverbanks and providing habitat for aquatic species.",
+    description: "River mangroves thrive along riverbanks and estuaries, playing a crucial role in stabilizing riverbanks and providing habitat for aquatic species. To plant river mangroves, collect seeds or propagules, plant them in wet, muddy riverbanks, and ensure they have access to regular freshwater or brackish water inundation.",
     policies: "River mangroves are protected under local and national conservation policies to preserve riverine ecosystems.",
     reference: "https://www.environment.nsw.gov.au/topics/animals-and-plants/native-plants/mangroves"
   },
