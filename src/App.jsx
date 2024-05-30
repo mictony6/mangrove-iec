@@ -185,6 +185,7 @@ function App() {
 
       <h5 className='slogan'>RESTORE MANGROVE FORESTS</h5>
       <button className="plant-button" onClick={handleButtonClick}>{hasClickedButton ? "Click anywhere to plant your mangrove" : "Plant a mangrove"}</button>
+      <p className='footer'><small>Website by Michael Anthony Bitoon</small></p>
       <a className="learn-more-link" target="_blank" href="https://ph.oceana.org/our-campaigns/restore-mangrove-forests/">Learn More</a>
       {showInfos.map((showInfo, index) =>
         showInfo &&

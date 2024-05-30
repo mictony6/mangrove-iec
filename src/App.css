@@ -69,3 +69,14 @@
   text-shadow: 0 0 10px rgba(249, 255, 205, 0.3);
   line-height: 125%;
 }
+
+.footer{
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  width: 100vw;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  color:rgb(73, 73, 73);
+  font-size: 1rem;
+}
